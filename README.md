@@ -56,3 +56,11 @@ python app.py
 - Interactive visualization
 
 Note: To see the dashboard in action, run the application and navigate to [http://localhost:5000](http://localhost:5000)
+
+## Certification 🏆
+
+<p align="center">
+  <img src="Coursera SA53DO60K17U.jpg" alt="Microsoft Web Development with Python Certificate" width="600"/>
+
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/SA53DO60K17U)
+</p>
